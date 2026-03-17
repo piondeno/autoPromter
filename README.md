@@ -147,5 +147,5 @@ autoPromter/
 - 提示詞中不能有換行符，會被自動移除
 - 輸入框選擇器可能隨 Gemini 版本更新而變動
 - 下載 MacroMicro 資料時可能需要處理驗證碼
-- FRED API Key 需自行申請取得
+- FRED API Key 需自行申請取得，自行填入到對應的.md檔案內
 # autoPromter
